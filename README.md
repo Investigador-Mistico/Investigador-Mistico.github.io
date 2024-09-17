@@ -1,7 +1,4 @@
-# PainelFichav1-
-Esse painel foi criado para gerar fichas criminais para denúncias, use com sabedoria.
-
-<!DOCTYPE html>
+# Painel_Ficha.v1
 <html lang="pt-BR">
 <head>
   <base href="https://investigacaodigital.gov/ficha-criminal/">
